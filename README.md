@@ -1,11 +1,14 @@
 # singku
 
-## classification
+## Package
+* parallel
+
+## Classification
 * u-net
 * vit
 * skin classification
 
-## transformer
+## Transformer
 * clip
 * sentiment analysis
 * machine translation
