@@ -11,9 +11,4 @@ wandb/
 
 
 ### Large Files ###
-*.csv
-*.jpg
-*.png
-*.json
-data/
 
