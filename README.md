@@ -1,12 +1,10 @@
 # singku
-
-## Package
-* parallel
+Lab Internship Projects
 
 ## Classification
-* u-net
 * vit
-* skin classification
+* u-net ([link](classification/u-net/README.md))
+* skin classification ([link](classification/skin-classification/README.md))
 
 ## Transformer
 * clip

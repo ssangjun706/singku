@@ -1,4 +1,4 @@
-# Binary Classification
+# Skin Disease Binary Classification
 
 ## Environment
 - Model: Swin Transformer
